@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sachin
+- 👀 I’m interested in learning new tech, reading books, travelling
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science
+- 📫 Reach me via instagram @sachin.shivakumar
